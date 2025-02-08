@@ -1,0 +1,53 @@
+{
+  "Player1": [
+    "Tank",
+    "Healer",
+    "Ranged",
+    "Caster",
+    "Melee"
+  ],
+  "Player2": [
+    "Healer",
+    "Melee",
+    "Caster",
+    "Ranged"
+  ],
+  "Player3": [
+    "Tank",
+    "Melee",
+    "Caster",
+    "Ranged"
+  ],
+  "Player4": [
+    "Healer",
+    "Tank",
+    "Melee",
+    "Caster",
+    "Ranged"
+  ],
+  "Player5": [
+    "Tank",
+    "Healer",
+    "Melee"
+  ],
+  "Player6": [
+    "Tank",
+    "Caster"
+  ],
+  "Player7": [
+    "Ranged",
+    "Healer",
+    "Caster",
+    "Melee",
+    "Tank"
+  ],
+  "Player8": [
+    "Melee",
+    "Tank"
+  ],
+  "Player9": [
+    "Ranged",
+    "Caster",
+    "Healer"
+  ]
+}
